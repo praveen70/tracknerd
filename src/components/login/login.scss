@@ -1,0 +1,19 @@
+.login-container {
+    background-color: #295f7d;
+    overflow: auto;
+    height: 100vh;
+    align-items: center;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: center;
+   
+    .password{
+        margin-top: 5%;
+    }
+    .MuiGrid-root{
+        margin: 10px auto;
+    }
+  }
+  
+
+  
